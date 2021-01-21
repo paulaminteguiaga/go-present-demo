@@ -1,6 +1,24 @@
-Golang Present
-Paula Minteguiaga
+Go Present (mandatory, 1st slide)
+Helpful examples (optional, 1st slide) -> mandatory blank line
 
-* Gopherize me
+Subtitle 2 (optional, 1st and last slide)
+Another text (optional, 1st and the last slide)
+We can write as many lines as we want (optional, 1st and the last slide)
+
+Even leaving a blank line (optional, 1st and the last slide)
+
+paulaminteguiaga@gmail.com (optional, every line with @, appears only on last slide)
+
+* Create a new slide with "* Some Title"
+
+* Gopherize me - Insert image Example
 
 .image images/gopher-me.png 500 _
+
+* Insert code example
+
+.code code/hello.go
+
+* Execute code example
+
+.play code/hello.go
