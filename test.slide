@@ -22,3 +22,7 @@ paulaminteguiaga@gmail.com (optional, every line with @, appears only on last sl
 * Execute code example
 
 .play code/hello.go
+
+* Execute Pyhton code example
+
+.play code/hello.py
