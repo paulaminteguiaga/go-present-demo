@@ -6,7 +6,7 @@
 
 $ go get -u golang.org/x/tools/present
 
-$ git clone blabla
+$ git clone git@github.com:paulaminteguiaga/go-present-demo.git
 
 $ cd go-present-demo
 
@@ -16,6 +16,9 @@ Open http://127.0.0.1:3999 in your browser. You should see a list of the slides 
 
 ## View slides online
 
-https://talks.godoc.org/github.com/paulaminteguiaga/go-present-demo/:slidename.slide:
+https://talks.godoc.org/github.com/paulaminteguiaga/go-present-demo/test.slide
 
-replace :slidename.slide: to see the slide
+replace "test.slide" to see the slide
+
+- test.slide : simple example of slide
+- go-tutorial.slide : very short summary of GO lang tutorial
